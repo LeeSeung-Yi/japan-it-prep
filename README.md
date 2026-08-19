@@ -1,16 +1,16 @@
 # japan-it-prep (일본 it취업 대비 학습 기록)
-일본 it 기업 입사를 목표로 공부한 기술 및 프로젝트를 기록하는 저장소 입니다. 
+일본 it 기업 입사를 목표로 공부한 기술 및 프로젝트를 기록하는 저장소입니다. 
 
 ---
 
 ## 작성자 (Author)
 * **이름:** 이승이 (Lee Seung-Yi)
-* **목표:** 일본 it 기업 백엔드 / 웹 개발자 준비
+* **목표:** 일본 IT 기업 백엔드 / 웹 개발자 준비
 * **주요 학습 분야:** Java, Git/GitHub, Database/SQL
 
 ---
 
-## 기술 스택 (Tech Stck)
+## 기술 스택 (Tech Stack)
 * **Languages:** Java
 * **Tools & Environment:** Git, GitHub, GitHub Codespaces, VS Code
 
@@ -28,4 +28,4 @@
 ## 주요 마크다운 문법 메모
 * '#': 제목 (개수가 적을수록 글씨가 큼)
 * '**글자**': **굵은 글씨**
-* '-[ ]': 체크박스 리스트
+* '- [ ]': 체크박스 리스트
